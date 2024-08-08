@@ -2,7 +2,7 @@
 
 ### [Live Site](https://tesfa37.github.io/restaurant/)
 
-![Restaurant Landing Page](https://github.com/Tesfa37/restaurant/tree/main/src/assets/restaurant-screenshot.png)
+![Restaurant Landing Page](https://github.com/Tesfa37/restaurant/blob/main/src/assets/restaurant-screenshot.png)
 
 ## Introduction
 This project is a modern UI/UX restaurant landing page. The design focuses on providing a visually appealing and user-friendly experience for restaurant visitors.
